@@ -52,4 +52,4 @@ https://medium.com/@tegaaruvwe/building-my-first-home-soc-with-microsoft-sentine
 
 Tega Avwaghwaruvwe
 
-Senior Cloud Engineer | Microsoft Entra ID | Azure Security | IAM | Cloud Security
+Cloud Engineer | Microsoft Entra ID | Azure Security | IAM | Cloud Security
